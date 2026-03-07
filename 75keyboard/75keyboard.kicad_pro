@@ -490,7 +490,7 @@
       "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "75keyboard.stl",
       "svg": "",
       "vrml": ""
     },
